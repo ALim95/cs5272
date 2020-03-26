@@ -1,0 +1,56 @@
+Sat Mar 14 06:27:22 UTC 2020
+CPU_CPUFreq used is: 0_100000 | FPS is: 0
+Sat Mar 14 06:27:32 UTC 2020
+CPU_CPUFreq used is: 0_250000 | FPS is: 1
+Sat Mar 14 06:27:42 UTC 2020
+CPU_CPUFreq used is: 0_500000 | FPS is: 5
+Sat Mar 14 06:27:52 UTC 2020
+CPU_CPUFreq used is: 0_667000 | FPS is: 9
+Sat Mar 14 06:28:02 UTC 2020
+CPU_CPUFreq used is: 0_1000000 | FPS is: 10
+Sat Mar 14 06:28:13 UTC 2020
+CPU_CPUFreq used is: 0_1200000 | FPS is: 11
+Sat Mar 14 06:28:23 UTC 2020
+CPU_CPUFreq used is: 0_1398000 | FPS is: 12
+Sat Mar 14 06:28:33 UTC 2020
+CPU_CPUFreq used is: 0_1512000 | FPS is: 12
+Sat Mar 14 06:28:43 UTC 2020
+CPU_CPUFreq used is: 0_1608000 | FPS is: 13
+Sat Mar 14 06:28:53 UTC 2020
+CPU_CPUFreq used is: 0_1704000 | FPS is: 13
+Sat Mar 14 06:29:03 UTC 2020
+CPU_CPUFreq used is: 0_1896000 | FPS is: 13
+Sat Mar 14 06:29:13 UTC 2020
+CPU_CPUFreq used is: 1_100000 | FPS is: 13
+Sat Mar 14 06:29:23 UTC 2020
+CPU_CPUFreq used is: 1_250000 | FPS is: 0
+Sat Mar 14 06:29:33 UTC 2020
+CPU_CPUFreq used is: 1_500000 | FPS is: 2
+Sat Mar 14 06:29:43 UTC 2020
+CPU_CPUFreq used is: 1_667000 | FPS is: 4
+Sat Mar 14 06:29:53 UTC 2020
+CPU_CPUFreq used is: 1_1000000 | FPS is: 5
+Sat Mar 14 06:30:03 UTC 2020
+CPU_CPUFreq used is: 1_1200000 | FPS is: 7
+Sat Mar 14 06:30:13 UTC 2020
+CPU_CPUFreq used is: 1_1398000 | FPS is: 9
+Sat Mar 14 06:30:23 UTC 2020
+CPU_CPUFreq used is: 1_1512000 | FPS is: 10
+Sat Mar 14 06:30:33 UTC 2020
+CPU_CPUFreq used is: 1_1608000 | FPS is: 12
+Sat Mar 14 06:30:43 UTC 2020
+CPU_CPUFreq used is: 1_1704000 | FPS is: 12
+Sat Mar 14 06:30:53 UTC 2020
+CPU_CPUFreq used is: 1_1800000 | FPS is: 13
+Sat Mar 14 06:34:29 UTC 2020
+CPU_CPUFreq used is: 0_100000 | FPS is: 0
+Sat Mar 14 06:34:39 UTC 2020
+CPU_CPUFreq used is: 0_250000 | FPS is: 1
+Sat Mar 14 06:36:14 UTC 2020
+CPU_CPUFreq used is: 0_100000 | FPS is: 0
+Sat Mar 14 06:49:43 UTC 2020
+CPU_CPUFreq used is: 0_100000 | FPS is: 0
+Sat Mar 14 06:49:53 UTC 2020
+CPU_CPUFreq used is: 0_250000 | FPS is: 1
+Sat Mar 14 06:50:03 UTC 2020
+CPU_CPUFreq used is: 0_500000 | FPS is: 4
